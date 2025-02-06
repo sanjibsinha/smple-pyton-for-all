@@ -1,4 +1,4 @@
-# smple-pyton-for-all
+# simple-pyton-for-all
 
 Alright, let's dive into Python. Think of me as your experienced coding buddy, here to guide you through the essentials. We'll start with the foundation: Variables, Data Types, and Operators.  We'll build a simple interactive program as we learn, so you can see these concepts in action.
 
